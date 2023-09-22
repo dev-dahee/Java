@@ -57,5 +57,14 @@ public class Application1 {
         char ch2 = 65;
 
         System.out.println("ch2 : " + ch2);
+
+        /* 논리형은 형변환 규칙에서 제외된다.
+        * 어느 자료형이든 boolean을 형변환해서 담을 수 없다.
+        * */
+        boolean isTrue = true;
+
+//        byte b = isTrue;
+//        short s = isTrue;
+
     }
 }
