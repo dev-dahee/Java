@@ -15,5 +15,10 @@ public class Application1 {
          * 홀수
          * */
 
+        int num = 1;
+        String result = (num%2!=0)? "홀수" : "짝수";
+        System.out.println(result);
+
+
     }
 }
