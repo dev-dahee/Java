@@ -10,6 +10,8 @@ public class Application7 {
         Application7 app7 = new Application7();
         System.out.println("두 수를 더한 결과 : " + app7.plusTwoNumbers(first, second));
         System.out.println("두 수를 뺀 결과 : " + app7.minusTwoNumbers(first, second));
+        System.out.println("두 수를 곱한 결과 : " + app7.multipleTwoNumbers(first, second));
+        System.out.println("두 수를 나눈 결과 : " + app7.divideTwoNumbers(first, second));
 
     }
 
@@ -30,6 +32,6 @@ public class Application7 {
 
     public int divideTwoNumbers(int first, int second){
 
-        return first + second;
+        return first / second;
     }
 }
