@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f228005f-bce8-4f75-bf8c-7331cf8be1d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application6.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application7.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application9.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section02/package_and_import/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application3.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2VvdDbe4ZKlXoYZdyRWuJ5Kbve9" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/dev/02_subLectureSource/01_JAVA/01_JAVA_PRACTICE",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f228005f-bce8-4f75-bf8c-7331cf8be1d1" name="Changes" comment="" />
+      <created>1695720369032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695720369032</updated>
+      <workItem from="1695720370038" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
