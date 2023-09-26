@@ -11,4 +11,9 @@ public class Calculator {
 
         return (first > second)? first : second;
     }
+
+    public static int maxNumberOf2(int first, int second){
+
+        return (first > second)? first : second;
+    }
 }
