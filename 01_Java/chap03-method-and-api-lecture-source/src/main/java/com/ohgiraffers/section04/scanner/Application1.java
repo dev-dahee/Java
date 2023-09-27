@@ -51,8 +51,8 @@ public class Application1 {
         System.out.println("입력하신 금액은 " + money + "원 입니다.");
 
         /*
-            nextBoolean() : 입력받은 값을 boolean형으로 반환
-            true or false 외에 다른 값을 입력하게 되면 InputMismatchException 발생
+           nextBoolean() : 입력받은 값을 boolean형으로 반환
+           true or false 외에 다른 값을 입력하게 되면 InputMismatchException 발생
          */
         System.out.print("참과 거짓 중 한 가지를 true or false로 입력해주세요 : ");
         boolean isTrue = sc.nextBoolean();

@@ -19,12 +19,7 @@ public class Application {
 
         D_switch d = new D_switch();
 //        d.testSimpleSwitchStatement();
-<<<<<<< HEAD
-//        d.testSwitchVendingMachine();
-
-=======
         d.testSwitchVendingMachine();
->>>>>>> ae1b6fb05877ab993ddb9c4e07419ac8152ca904
     }
 
 
