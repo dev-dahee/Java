@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class C_ifElseIf {
 
     /*
+<<<<<<< HEAD
         [if-else-if문 표현식]
 
         if(조건식1) {
@@ -19,6 +20,22 @@ public class C_ifElseIf {
         조건식1이 false이면 조건식2를 확인하여 참(true)이면 else if{} 안에 있는 코드를 실행한다.
         조건식1,2의 결과값이 모두 거짓(false)이면 else {} 안에 있는 코드를 실행한다.
      */
+=======
+    * [if-else-if문 표현식]
+    *
+    * if(조건식1) {
+    *     조건식1이 true일 때 실행할 명령문;
+    * } else if (조건식2){
+    *     조건식1이 false이고 조건식2가 true일 때 실행할 명령문;
+    * } else {
+    *     위의 조건 2개가 모두 거짓인 경우 실행할 명령문;
+    * }
+    *
+    * if-else-if문은 조건식1의 결과값이 참(true)이면 if{} 안에 있는 코드를 실행하고,
+    * 조건식1이 false이면 조건식2를 확인하여 참(true)이면 else if{} 안에 있는 코드를 실행한다.
+    * 조건식1,2의 결과값이 모두 거짓(false)이면 else {} 안에 있는 코드를 실행한다.
+    * */
+>>>>>>> ae1b6fb05877ab993ddb9c4e07419ac8152ca904
 
     public void testSimpleIfElseIfStatement() {
 
@@ -27,6 +44,7 @@ public class C_ifElseIf {
         System.out.println("나무꾼에 셋 중 어떤 도끼가 나무꾼의 도끼인지 물어봤다.");
 
         Scanner sc = new Scanner(System.in);
+<<<<<<< HEAD
         System.out.println("어느 도끼가 너의 도끼이니? (1. 금도끼, 2. 은도끼, 3. 쇠도끼) : ");
         int answer = sc.nextInt();
 
@@ -42,6 +60,28 @@ public class C_ifElseIf {
         }
         System.out.println("그렇게 산신령은 다시 연못 속으로 사라지고 말았다...");
     }
+=======
+        System.out.print("어느 도끼가 너의 도끼이니?(1. 금도끼, 2. 은도끼, 3. 쇠도끼) : ");
+        int answer = sc.nextInt();
+
+        System.out.println("answer = " + answer);
+        
+        /* 금도끼인지, 은도끼인지, 쇠도끼인지 검증 */
+        if(answer == 1) {
+
+            System.out.println("이런 거짓말쟁이!!! 너에게는 아무런 도끼도 줄 수 없구나!! 이 욕심쟁이야!!");
+        } else if (answer == 2) {
+
+            System.out.println("욕심이 과하지는 않지만 그래도 넌 거짓말을 하고 있구나!! 어서 썩 사라지거라!!!");
+        } else {
+
+            System.out.println("오호~ 정직하구나~ 여기있는 금도끼, 은도끼, 쇠도끼를 모두 다 가져가거라!!");
+        }
+
+        System.out.println("그렇게 산신령은 다시 연못 속으로 사라지고 말았다......");
+    }
+
+>>>>>>> ae1b6fb05877ab993ddb9c4e07419ac8152ca904
     public void testNestedIfElseIfStatement() {
 
         /*
@@ -53,15 +93,22 @@ public class C_ifElseIf {
          * */
 
         Scanner sc = new Scanner(System.in);
+<<<<<<< HEAD
         System.out.println("학생의 이름을 입력하세요 : ");
         String name = sc.nextLine();
         System.out.println("학생의 점수를 입력하세요 : ");
+=======
+        System.out.print("학생의 이름을 입력하세요 : ");
+        String name = sc.nextLine();
+        System.out.print("학생의 점수를 입력하세요 : ");
+>>>>>>> ae1b6fb05877ab993ddb9c4e07419ac8152ca904
         int point = sc.nextInt();
 
         /* 학생의 등급을 저장하기 위한 변수 초기화 */
         String grade = "";
 
         if(point >= 90) {
+<<<<<<< HEAD
             grade = "A";
             if (point >= 95) {
                 grade += "+";   //grade = grade + "+";
@@ -86,4 +133,43 @@ public class C_ifElseIf {
         }
         //System.out.println(name + "학생의 점수는 " + point + "이고, 등급은 " + );
     }
+=======
+
+            grade = "A";
+
+            if(point >= 95) {
+                grade += "+";   // grade = grade + "+";
+            }
+        } else if(point >= 80) {
+
+            grade = "B";
+
+            if(point >= 85) {
+                grade += "+";   // grade = grade + "+";
+            }
+        } else if(point >= 70){
+
+            grade = "C";
+
+            if(point >= 75) {
+                grade += "+";   // grade = grade + "+";
+            }
+        } else if(point >= 60) {
+
+            grade = "D";
+
+            if(point >= 65) {
+                grade += "+";   // grade = grade + "+";
+            }
+        } else {
+
+            grade = "F";
+
+        }
+
+        System.out.println(name + " 학생의 점수는 " + point + "이고, 등급은 " + grade + "입니다.");
+        System.out.println("프로그램을 종료합니다.");
+    }
+
+>>>>>>> ae1b6fb05877ab993ddb9c4e07419ac8152ca904
 }
