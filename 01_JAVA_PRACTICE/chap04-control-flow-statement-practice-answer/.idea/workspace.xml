@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aee28c43-4441-44fa-bc99-28c5b17d8ae8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/D_switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/D_switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/A_for.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section02/looping/Application.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
