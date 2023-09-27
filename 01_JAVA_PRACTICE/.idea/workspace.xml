@@ -1,9 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="f228005f-bce8-4f75-bf8c-7331cf8be1d1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/src/main/java/com/ohgiraffers/section01/level01/basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/src/main/java/com/ohgiraffers/section01/level01/basic/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/src/main/java/com/ohgiraffers/section01/level01/normal/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap03-method-and-api-practice-question/src/main/java/com/ohgiraffers/section01/level01/normal/RandomMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level01/basic/Application5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap04-control-flow-statement-practice-question/src/main/java/com/ohgiraffers/section01/conditional/level02/normal/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/A_if.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01_Java/chap04-control-flow-lecture-source/src/main/java/com/ohgiraffers/section01/conditional/B_ifElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section01/method/Application5.java" afterDir="false" />
@@ -17,7 +66,6 @@
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section03/math/Application3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../01_Java/chap03-method-and-api-lecture-source/src/main/java/com/ohgiraffers/section04/scanner/Application3.java" afterDir="false" />
     </list>
@@ -29,9 +77,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2VvdDbe4ZKlXoYZdyRWuJ5Kbve9" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -41,7 +89,11 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/dev/02_subLectureSource/01_JAVA/01_JAVA_PRACTICE",
+    "last_opened_file_path": "C:/dev/02_subLectureSource/01_JAVA/01_Java/chap03-method-and-api-lecture-source",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -54,6 +106,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695720369032</updated>
       <workItem from="1695720370038" duration="30000" />
+      <workItem from="1695720819982" duration="576000" />
     </task>
     <servers />
   </component>

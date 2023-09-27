@@ -1,6 +1,7 @@
 package com.ohgiraffers.section01.method;
 
 public class Application6 {
+
     public static void main(String[] args) {
         /*
         메소드 리턴값 테스트
