@@ -8,7 +8,13 @@ public class Application {
 //        a.testSimpleForStatement();
 //        a.testForExample1();
 //        a.testForExample2();
-        a.testForExample3();
-    }
+//        a.testForExample3();
+//        a.testForExample4();
+//        a.testForEaxmple5();
 
+        A_nestedFor an = new A_nestedFor();
+//        an.printGugudanFromTwoToNine();
+//        an.printStarInputRowTimes();
+        an.printTrinagleStars();
+    }
 }

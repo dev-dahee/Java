@@ -241,7 +241,75 @@ public class A_for {
 
         if(first > second) {
 
+            for(int i = second; i <= first; i++) {
+                sum += i;
+            }
+        } else {
+
+            for(int i = first; i <= second; i++) {
+                sum += i;
+            }
         }
+        System.out.println("sum = " + sum);
+        
+        /*
+        * 결국은 작은 수 부터 큰 수까지의 합계를 구하는 것이니깐
+        * first와 second중 어느 것이 더 큰수인지를 확인
+        * */
+        int min = 0;
+        int max = 0;
+        int sum2 = 0;
+        if(first > second){
+            max = first;
+            min = second;
+        } else {
+
+            max = second;
+            min = first;
+        }
+
+        for(int i = min; i <= max; i++) {
+            sum2 += i;
+        }
+
+        System.out.println("sum2 = " + sum2);
+
+    }
+
+    public void testForEaxmple5() {
+
+        /*
+        * 키보드로 2 ~ 9 사이의 구구단을 입력받아
+        * 2 ~ 9 사이인 경우 해당 단의 구구단을 출력하고,
+        * 그렇지 않은 경우 "반드시 2 ~ 9 사이의 양수를 입력해야 합니다." 출력
+        * */
+
+        Scanner sc = new Scanner(System.in);
+        System.out.print("출력할 구구단의 단 수를 입력하세요 : ");
+        int dan = sc.nextInt();
+
+        /* 2 ~ 9 사이인지 조건 */
+        if(dan >= 2 && dan <= 9){
+
+//            System.out.println(dan + " * " + 1 + " = " + (dan * 1));
+//            System.out.println(dan + " * " + 2 + " = " + (dan * 2));
+//            System.out.println(dan + " * " + 3 + " = " + (dan * 3));
+//            System.out.println(dan + " * " + 4 + " = " + (dan * 4));
+//            System.out.println(dan + " * " + 5 + " = " + (dan * 5));
+//            System.out.println(dan + " * " + 6 + " = " + (dan * 6));
+//            System.out.println(dan + " * " + 7 + " = " + (dan * 7));
+//            System.out.println(dan + " * " + 8 + " = " + (dan * 8));
+//            System.out.println(dan + " * " + 9 + " = " + (dan * 9));
+            for(int su = 1; su <= 9; su++){
+                System.out.println(dan + " * " + su + " = " + (dan * su));
+            }
+
+        } else {
+            System.out.println("반드시 2 ~ 9 사이의 양수를 입력해야 합니다.");
+        }
+
+        System.out.println("프로그램을 종료합니다.");
+
 
     }
 }
